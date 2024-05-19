@@ -346,6 +346,7 @@ header{
     }
     .header-section {
         flex-direction: column-reverse;
+        gap: 0;
     }
     .header-left {
         max-width: 100%;
